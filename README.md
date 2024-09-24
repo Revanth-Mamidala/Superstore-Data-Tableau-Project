@@ -7,6 +7,9 @@ Using Tableau and the Sample Superstore dataset, several analyses were performed
 
 Monthly Order Trends: The monthly trend of orders shipped was analyzed, revealing seasonal peaks and significant variability in order volume. Sales surged in November and December, corresponding to holiday shopping, while January saw a decline, indicating a post-holiday slump.
 
+![image](https://github.com/user-attachments/assets/7e82be0a-7981-4569-9923-98ff65599d0a)
+
+
 Discount and Profit Analysis: The relationship between discount rates and profit showed that higher discounts often reduced profit margins. This is especially true for categories where deep discounts are applied without a corresponding increase in sales volume, highlighting the need for controlled discounting strategies.
 
 Shipping Time Distribution: A comparison of shipping times across different shipping modes (e.g., Same Day, First Class, Second Class, Standard Class) revealed that faster shipping options generally delivered orders on time with minimal variability, whereas Standard Class showed higher variability and longer delays, which could negatively affect customer satisfaction.
